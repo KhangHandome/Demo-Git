@@ -1,5 +1,1 @@
-file main.c\awerfawsef
-wafe
-awef
-awse
-awse
+file main.c
